@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HelloWorldAndroidTest</string>
+    <string name="mr_gonzales_coin_generator">Mr. Gonzales coin Generator</string>
+    <string name="click_to_add_coin">Click to add coin</string>
+    <string name="click_to_add_golden_gonazles_coin_costs_25">Click to add golden gonazles coin: costs 25</string>
+</resources>
